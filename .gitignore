@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+## Add it so next time you do not uppload IDEA senttings, in case of some one else did not use the same IDE
+.idea
+.idea/
